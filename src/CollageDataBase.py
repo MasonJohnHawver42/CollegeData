@@ -7,33 +7,14 @@ class Collage:
         "UIUC" : "University of Illinois Urban Champaighn"    
     }
     
-    meta_data = {
+    meta_data = {  
+        "SAT" : {"math" : [25, 50, 75],
+                 "reading" : [25, 50, 75]
+                },
         
-        #Cost
-        
-        #rigor of aceptance
-        "rigor" : {
-            
-            "SAT" : 0,
-            "ACT" : 0,
-            "GPA" : 0,
-            "ACPT Rate" : 0
-        
-        },
-        
-        #Reward
-        
-        #location detail
-        "local" : {
-            
-            "Adress" : "str",
-            "campus" : {
-                "Type" : "str",
-                "Img" : "str"
-            }
-        
-        }
-
+        "ACT" : 0,
+        "GPA" : 0,
+        "ACPT Rate" : 0
     }
     
     def __init__(self, name):
