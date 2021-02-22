@@ -26,6 +26,11 @@ def OR(v1, v2):
     return iv1
 
 
+fn = "C:/Users/hawverm2967/Downloads/Pyhon/CollegeData/data/Aliases.txt"
+
+f = open(fn, "r")
+names = f.read().split("\n")
+
 fn = "C:/Users/hawverm2967/Downloads/Pyhon/CollegeData/data/CollegeScorecard_Raw_Data_01192021/Raw Data Files/MERGED2018_19_PP.csv"
 
 with open(fn, 'r') as read_obj:
@@ -49,21 +54,35 @@ with open(fn, 'r') as read_obj:
     
     db = CollageDataBase()
     
-    i = 0 
-    while i < 1000:
+    i = 0
+    j = 0
+    while i < 3000:
         row = next(csv_reader)
         
-        name = row[name_i]
-        c = Collage(name)
+        rn = row[name_i]
         
-        p = valerr
-        c.data["SAT"]["math"] = [NUM(row[msat25_i]), NUM(row[msat50_i]), NUM(row[msat75_i])]
-        c.data["SAT"]["reading"] = [NUM(row[rsat25_i]), NUM(row[rsat50_i]), NUM(row[rsat75_i])]
+        name = rn.split("-")
+        camp = name[1] if len(name) > 1 else ""
+        name = name[0].lower()
         
-        c.data["ACT"] = NUM(row[act_i])
+        if name in names:
+            print(name, camp, j)
+            j += 1
         
-        c.data["ACPT Rate"] = NUM(row[amdr_i1])
+        #c = Collage(name)
         
-        if valerr - p == 0 and c.data["ACPT Rate"] < .2:
-            print(name, c.data)
+        #p = valerr
+        #c.data["SAT"]["math"] = [NUM(row[msat25_i]), NUM(row[msat50_i]), NUM(row[msat75_i])]
+        #c.data["SAT"]["reading"] = [NUM(row[rsat25_i]), NUM(row[rsat50_i]), NUM(row[rsat75_i])]
+        
+        #c.data["ACT"] = NUM(row[act_i])
+        
+        #c.data["ACPT Rate"] = NUM(row[amdr_i1])
+        
+        #if valerr - p == 0 and c.data["ACPT Rate"] < .2:
+        #    print(name, c.data)
+        
+    
+    print(j)
+    
         

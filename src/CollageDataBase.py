@@ -2,10 +2,10 @@ import json
 
 class Collage:
     
-    aliases = {
-        "nick name" : "offical name",
-        "UIUC" : "University of Illinois Urban Champaighn"    
-    }
+    class Campus:
+        def __init__(self, name= "main"):
+            self.name = name
+            self.data = Collage.meta_data.copy()
     
     meta_data = {  
         "SAT" : {"math" : [25, 50, 75],
@@ -14,38 +14,50 @@ class Collage:
         
         "ACT" : 0,
         "GPA" : 0,
-        "ACPT Rate" : 0
+        "ACPT Rate" : 0,
+        
+        "default" : True
     }
     
     def __init__(self, name):
+        self.name = name
+        self.camps = [Campus()]
         
-        if (name in Collage.aliases):
-            self.name = Collage.aliases[name]
-        else:
-            self.name = name
-        
-        self.data = Collage.meta_data
 
 
 class CollageDataBase:
     def __init__(self):
-        self.db = {}
+        self.collages = []
     
     def add(self, collage):
-        self.db[collage.name] = collage.data
+        self.collages.append(collge)
+    
+    def search(self, name, camp_name = "main"):
+        for collage in self.collages:
+            if collage.name.lower() == name.lower():
+                for camp in collage.camps:
+                    if camp.name.lower() == camp_name.lower():
+                        return camp
     
     def load(self, file_name):
         with open(file_name) as fp:
-            self.db = json.load(fp)
+            #self.db = json.load(fp)
+            pass
         
     def save(self):
         with open('CollageDB.json', 'w') as fp:
-            json.dump(self.db, fp)
+            #json.dump(self.db, fp)
+            pass
 
 
 c = Collage("gg")
 db = CollageDataBase()
 db.add(c)
+
+c = db.search("gg")
+c.data["GPA"] = 11
+
+print(db.search("gg").data)
 
 db.save()
     
