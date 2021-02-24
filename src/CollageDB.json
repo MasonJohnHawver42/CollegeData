@@ -1,1 +1,8473 @@
-{"gg": {"SAT": {"math": [25, 50, 75], "reading": [25, 50, 75]}, "ACT": 0, "GPA": 0, "ACPT Rate": 0}}
+{
+    "massachusetts institute of technology": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "harvard university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "stanford university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "yale university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "duke university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "princeton university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "rice university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "california institute of technology": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "brown university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "university of pennsylvania": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "vanderbilt university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "columbia university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "dartmouth college": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "northwestern university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "washington university in st louis": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "university of notre dame": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "university of chicago": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "cornell university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "university of southern california": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "pomona college": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "johns hopkins university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "carnegie mellon university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "university of michigan-ann arbor": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "university of california-los angeles": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "georgetown university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "bowdoin college": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "georgia institute of technology": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "harvey mudd college": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "university of virginia": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "carleton college": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "tufts university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "united states military academy at west point": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "williams college": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "haverford college": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "colby college": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "washington and lee university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "amherst college": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "middlebury college": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "claremont mckenna college": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "emory university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "barnard college": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "swarthmore college": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "wellesley college": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "wake forest university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "colgate university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "university of california-berkeley": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "davidson college": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "university of north carolina at chapel hill": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "boston college": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "northeastern university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "new york university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "wesleyan university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "hamilton college": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "william and mary": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "boston university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "university of florida": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "university of texas-austin": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "case western reserve university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "university of georgia": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "virginia tech": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "university of wisconsin ~ madison": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "university of richmond": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "lehigh university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "villanova university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "macalester college": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "tulane university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "vassar college": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "grinnell college": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "bates college": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "university of miami": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "smith college": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "lafayette college": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "kenyon college": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "university of rochester": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "university of illinois at urbana champaign": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "purdue university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "the cooper union for the advancement of science and art": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "bucknell university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "colorado school of mines": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "texas a and m university ~ college station": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "reed college": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "penn state": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "santa clara university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "university of california-santa barbara": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "scripps college": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "southern methodist university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "babson college": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "bryn mawr college": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "north carolina state university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "brigham young university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "worcester polytechnic institute": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "the ohio state university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "university of washington": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "florida state university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "mount holyoke college": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "university of minnesota twin cities": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "rensselaer polytechnic institute": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "clemson university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "university of california-irvine": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "university of california-davis": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "university of maryland-college park": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "university of california-san diego": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "rose hulman institute of technology": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "university of pittsburgh": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "st olaf college": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "texas christian university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "colorado college": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "skidmore college": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "occidental college": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "whitman college": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "michigan state university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "franklin and marshall college": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "brandeis university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "university of south florida": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "stevens institute of technology": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "gettysburg college": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "indiana university-bloomington": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "yeshiva university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "wheaton college-illinois": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "university of tulsa": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "loyola marymount university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "union college-new york": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "furman university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "rhode island school of design": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "pepperdine university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "michigan technological university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "university of delaware": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "saint louis university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "university of san diego": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "auburn university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "university of massachusetts-amherst": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "virginia military institute": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "baylor university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "james madison university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "denison university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "rhodes college": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "california polytechnic state university cal poly-san luis obispo": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "university of iowa": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "bentley university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "arizona state university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "rutgers university-new brunswick": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "syracuse university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "university of utah": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "iowa state university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "university of central florida": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "sewanee-the university of the south": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "university of dayton": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "hendrix college": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "milwaukee school of engineering": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "gustavus adolphus college": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "wabash college": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "university of oklahoma": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "fordham university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "university of connecticut": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "new mexico tech": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "oklahoma state university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "university of south carolina": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "united states merchant marine academy": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "university of st thomas-minnesota": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "the university of alabama": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "kansas state university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "drake university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "mississippi state university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "american university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "chapman university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "oberlin college": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "university of cincinnati": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "miami university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "augustana university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "university of portland": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "university of missouri": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "depauw university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "letourneau university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "washington state university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "texas tech university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "hope college": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "trinity college-connecticut": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "university of arkansas": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "lawrence university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "university of arizona": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "lewis  and  clark college": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "binghamton university suny": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "university at buffalo suny": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "university of texas at dallas": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "dickinson college": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "university of nebraska-lincoln": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "university of colorado-boulder": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "point loma nazarene university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "university of kansas": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "california state university-long beach": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "creighton university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "union university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "university of denver": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "marquette university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "drexel university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "temple university": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    },
+    "": {
+        "rank": "-1",
+        "SAT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACT": {
+            "math": [
+                25,
+                50,
+                75
+            ],
+            "reading": [
+                25,
+                50,
+                75
+            ]
+        },
+        "ACPT Rate": 0,
+        "Net": 0,
+        "Starting": 0,
+        "Enrolment": 0,
+        "Grad Rate": 0,
+        "SF ratio": 0,
+        "Address": "",
+        "conference": "",
+        "division": "",
+        "Majors": [
+            [
+                "Basket Weaving",
+                100
+            ]
+        ],
+        "default": true
+    }
+}
