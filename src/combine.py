@@ -10,5 +10,10 @@ with open(fn) as fp:
 db = CollageDataBase()
 db.load("C:/Users/hawverm2967/Downloads/Pyhon/CollegeData/src/CollageDB.json")
 
-for collage in db.collages:
-    print(collage.data["SAT"])
+print(db.search("Union College"))
+
+for k, v in jdata.items():
+    c = db.search(k)
+    if c is not None:
+        if c.data["default"]:
+            print(c.getName())

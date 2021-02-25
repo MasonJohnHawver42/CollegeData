@@ -36,6 +36,7 @@ with open(fn, 'r') as read_obj:
     header = next(csv_reader)
     
     name_i = header.index("INSTNM")
+    aname_i = header.index("ALIAS")
     
     amdr_i1 = header.index("ADM_RATE_ALL")
     amdr_i2 = header.index("ADM_RATE")
@@ -58,6 +59,11 @@ with open(fn, 'r') as read_obj:
         rn = row[name_i]
         
         c = db.search(rn)
+        
+        
+        if c is None and row[aname_i] != "None":
+            for al in row[aname_i].split("|"):
+                c = db.search(row[aname_i])
         
         if c is not None:
             j += 1
